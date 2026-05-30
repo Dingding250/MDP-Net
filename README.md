@@ -1,6 +1,6 @@
 # Multi-granularity Difference Perception Network for Artifacts Localization in AI-Generated Images
 
-Thank you for your attention! We will make the code publicly available as soon as the paper is accepted.(IJCV 2026, under review)
+Thank you for your attention! We will make the code publicly available as soon as the paper is accepted.(under review)
 
 
 <img width="1515" height="347" alt="image" src="https://github.com/user-attachments/assets/ff050ce0-2225-45d6-91af-e4aec420d101" />
